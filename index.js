@@ -1,6 +1,6 @@
 'use strict'
 
-var escape = require('escape-string-regexp')
+var escape = require("./pre-bundled/node_modules/escape-string-regexp")
 
 module.exports = hasRequire
 
