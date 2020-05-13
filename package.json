@@ -1,6 +1,6 @@
 {
-  "name": "has-require",
-  "version": "1.2.2",
+  "name": "@pre-bundled/has-require",
+  "version": "1.2.2-patch-1",
   "description": "Check if code requires any module or a specific id",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "standard": "^4.0.1",
     "tape": "^4.0.0"
   },
-  "dependencies": {
-    "escape-string-regexp": "^1.0.3"
-  }
+  "dependencies": {},
+  "peerDependencies": {}
 }
